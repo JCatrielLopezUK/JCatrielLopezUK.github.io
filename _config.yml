@@ -1,6 +1,6 @@
 # Site
-name: "My Personal Site"
-title: "My Personal Site"
+name: "J. Catriel Lopez"
+title: "J. Catriel Lopez - Personal Blog and Portfolio"
 description: "My personal blog and portfolio"
 url: "https://JCatrielLopezUK.github.io"
 logo: 'assets/images/logo.png'
@@ -15,14 +15,13 @@ permalink: /:title/
 # Authors
 authors:
   admin:
-    name: Admin
-    display_name: Admin
+    name: JCatrielLopez
+    display_name: Catriel
     avatar: 'assets/images/avatar.png'
     gravatar: 
-    email: your-email@example.com
-    web: https://example.com
-    twitter: https://twitter.com/username
-    description: "Author description goes here."
+    email: jcatriel.lopez@gmail.com
+    web: "https://JCatrielLopezUK.github.io"
+    description: ""
 
 # Plugins
 plugins:
@@ -62,4 +61,4 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, .gitignore, .github, .vscode, .DS_Store, .env, .env.local, .env.development.local, .env.test.local, .env.production.local, .env.development, .env.test, .env.production]
